@@ -7,3 +7,5 @@ References and Thanks
 2. https://wiki.osdev.org/Printing_To_Screen
 
 The C code has been modified slightly.
+
+To run: qemu-system-i386 -kernel kernel-1 (you need the qemu emulator).
